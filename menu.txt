@@ -1,0 +1,4 @@
+Idli,20
+IdliVada,30
+MasalaDosa,35
+GobiManchurian,40
